@@ -1,0 +1,1555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\tomo9\Documents\電子工作\KiCad\NixieIndicator\NixieIndicator.kicad_sch</source>
+    <date>2023/03/22 20:08:42</date>
+    <tool>Eeschema (7.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>NixieIndicator.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1u</value>
+      <footprint>Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dcd0d9b5-72c2-4e16-b61a-b0a5bb93976a</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1u</value>
+      <footprint>Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75a3fe8f-f78a-41d8-9ad7-6c78738acb94</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1u</value>
+      <footprint>Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3311b48-6f83-4c74-bfca-bae349aa864a</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1u</value>
+      <footprint>Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9284cba-c6b2-458a-a69a-32933cfcac1d</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1u</value>
+      <footprint>Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8893e3e2-8789-44ee-b6ff-c811329c4d26</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x03_Pin</value>
+      <footprint>Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Pin" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01394f50-2cc7-458d-8eec-d83ea87dc791</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>RIGHT</value>
+      <footprint>Connector_JST:JST_XH_S12B-XH-A_1x12_P2.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x12_Pin" description="Generic connector, single row, 01x12, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x12, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cfb53fd1-d630-4fb9-96a8-52a0876681ee</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>MIDDLE</value>
+      <footprint>Connector_JST:JST_XH_S12B-XH-A_1x12_P2.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x12_Pin" description="Generic connector, single row, 01x12, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x12, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74e0fb55-37f5-466e-af95-4166a240155a</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>LEFT</value>
+      <footprint>Connector_JST:JST_XH_S12B-XH-A_1x12_P2.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x12_Pin" description="Generic connector, single row, 01x12, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x12, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11ff8e30-51ed-46ab-b220-46ffcb80419a</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x12_Pin</value>
+      <footprint>Connector_JST:JST_XH_S12B-XH-A_1x12_P2.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x12_Pin" description="Generic connector, single row, 01x12, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x12, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35a713d7-bd01-43c0-a0ef-fc52d4742f77</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>I2C</value>
+      <footprint>Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Pin" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4fbc7221-569f-4065-999a-01be0b8ad016</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>EUSART</value>
+      <footprint>Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Pin" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff264b19-800e-43b5-a6af-ab071713c2e1</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Conn_01x04_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Pin" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>965f1c6e-63d4-495b-9ee5-706e64efaada</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>MPSA42</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>http://www.onsemi.com/pub_link/Collateral/MPSA42-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="MPSA42" description="0.5A Ic, 300V Vce, NPN High Voltage Transistor, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="0.5A Ic, 300V Vce, NPN High Voltage Transistor, TO-92"/>
+      <property name="ki_keywords" value="NPN High Voltage Transistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>989c9b0a-d020-47fe-8980-a3a3aaaa6d37</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>MPSA42</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>http://www.onsemi.com/pub_link/Collateral/MPSA42-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="MPSA42" description="0.5A Ic, 300V Vce, NPN High Voltage Transistor, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="0.5A Ic, 300V Vce, NPN High Voltage Transistor, TO-92"/>
+      <property name="ki_keywords" value="NPN High Voltage Transistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98d923bb-8b75-4b65-b3d6-f11c47d73489</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>MPSA42</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>http://www.onsemi.com/pub_link/Collateral/MPSA42-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="MPSA42" description="0.5A Ic, 300V Vce, NPN High Voltage Transistor, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="0.5A Ic, 300V Vce, NPN High Voltage Transistor, TO-92"/>
+      <property name="ki_keywords" value="NPN High Voltage Transistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>22b01ce8-0c15-4d1e-87cd-2e267bdb1324</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53a641a8-5c6b-4625-adf0-b313e33a27ff</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4dc88d47-3242-4a18-81fc-febe45fd2221</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61d69b72-446f-4ac6-9d1b-9ac87d3d27bc</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e728a716-b95c-4cc1-84af-eec67d0b4528</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d8b9554-2854-42c9-833a-fe98da8fdda9</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1a9f790-3009-4e28-9a5f-0dd2a59723af</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>313ae7a3-4bad-4718-b9f3-d60038fb0898</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab842c15-2836-4e11-ad8d-e1cc531511c9</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c34cfc4f-ab6a-4d85-b25e-4d4d54feddd4</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8a6108d-4165-463d-be0f-b132bc869745</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1bf12aa4-6eab-41a7-a5cd-4d7c56c8d94f</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>584bca94-d3b3-4a51-9f33-2caa0afdc707</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f69e8915-8dc1-4a0a-9467-63c8a6d9a34e</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79a77db1-de12-4c36-888c-d1de9229d58b</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a9b1132-da6c-496d-91f4-4c5e74e89933</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e77fdc55-2025-4597-853e-c5248f23bace</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69025f25-6470-4513-923a-2dd52471fad7</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>525bf629-76b1-4a6d-bcdf-85b4742ecd59</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c510a27-6781-4dee-b4a7-b7beda50e557</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b641f1d-8e13-48fe-9e6c-44abcf4bb2a2</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8fccd87c-85fb-4955-a164-76e9c4ea0410</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53b38b07-44be-4882-a3a4-628294e06394</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>851a835b-ae3a-4147-85b0-616a22a89253</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d1d21d8-f3ed-4b2a-b789-423574bb7955</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db960eb1-5b7a-41a5-8373-f99a1c82a17e</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74ca4683-2b95-4697-b6f0-c0828522bd94</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e439442d-8775-4aaa-a31c-d5e4a865c1b0</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bee628b5-ee82-4511-8462-c754cccc07c0</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8cc06ef-9134-47fa-bc07-a43b6a52b7ad</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ac417a5-e8a6-4adb-bb62-df1bc12990f0</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af1c950b-c006-4757-b900-640487338081</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6344e10c-4794-4a04-8140-040205d5b02f</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d18a0a37-121b-41f5-b047-4bba20047eaa</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4704836-6815-4268-af2d-1b9599864452</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15229ec0-879d-47eb-892a-45b7d6b1da84</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>330</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ac477dc-66b0-4ba0-9380-dbb93cd1afe4</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40f62a37-4e05-4a36-ba77-8076ffcce2c5</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9f72f55-ee39-4cdd-8696-810347a8ccf3</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ec4a36f-a73a-414d-a44d-bddb2bb2e310</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aeaf49be-8f7b-43d8-ac81-362289e9f937</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b73f086-1db6-42ce-ad0c-195304958e71</tstamps>
+    </comp>
+    <comp ref="R42">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ccaf12df-0d5e-44ff-b429-63bae136edd4</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>PIC16F1939</value>
+      <footprint>Package_DIP:DIP-40_W15.24mm_Socket</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/jp/DeviceDoc/41574A_JP.pdf</datasheet>
+      <libsource lib="mylib" part="PIC16F1939" description="PIC16F1939, 8-Bit CMOS Microcontrollers, PDIP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="PIC16F1939, 8-Bit CMOS Microcontrollers, PDIP"/>
+      <property name="ki_keywords" value="PIC"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>26b4d077-4e3f-47e0-a6a5-836a0dd289d3</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>TLP627</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm_Socket</footprint>
+      <datasheet>https://toshiba.semicon-storage.com/info/docget.jsp?did=16914&amp;prodName=TLP627</datasheet>
+      <libsource lib="Isolator" part="TLP627-4" description="DC Quad Darlington Optocoupler, Vce 300V, CTR 1000%, DIP16"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="DC Quad Darlington Optocoupler, Vce 300V, CTR 1000%, DIP16"/>
+      <property name="ki_keywords" value="NPN Quad Darlington DC Optocoupler"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f140d51-8ac9-4fc0-8fda-2a9870c90934 78f689d8-1638-4304-b70c-61a3b0699a60 44cf0dd2-b937-4beb-9077-514bdc4c3bf2 40411f1c-2835-4b53-bcc3-4734f9407a9d</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>TLP627</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm_Socket</footprint>
+      <datasheet>https://toshiba.semicon-storage.com/info/docget.jsp?did=16914&amp;prodName=TLP627</datasheet>
+      <libsource lib="Isolator" part="TLP627-4" description="DC Quad Darlington Optocoupler, Vce 300V, CTR 1000%, DIP16"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="DC Quad Darlington Optocoupler, Vce 300V, CTR 1000%, DIP16"/>
+      <property name="ki_keywords" value="NPN Quad Darlington DC Optocoupler"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6350986-6987-4f4b-96d6-6e86a9231717 643d4966-9be5-4e43-a531-968a99f10796 cdad1691-55b8-4e51-a5a2-6eb9c3304418 1e5c9514-99ed-4557-8343-b5d4bbb7b5a8</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>TLP627</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm_Socket</footprint>
+      <datasheet>https://toshiba.semicon-storage.com/info/docget.jsp?did=16914&amp;prodName=TLP627</datasheet>
+      <libsource lib="Isolator" part="TLP627-4" description="DC Quad Darlington Optocoupler, Vce 300V, CTR 1000%, DIP16"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="DC Quad Darlington Optocoupler, Vce 300V, CTR 1000%, DIP16"/>
+      <property name="ki_keywords" value="NPN Quad Darlington DC Optocoupler"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dfcd3d60-0f6a-4c41-9a85-cc359fe1dc7b 70f153ba-e6c6-4114-948c-276fc2338d22 599e540a-efed-42fd-9ec5-67079bc71e05 0ce255fd-f890-47a4-b92a-693af97ca318</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>K155ID1</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm_Socket</footprint>
+      <datasheet>http://nixie-tube.com/nixie/data/74141/74141.pdf</datasheet>
+      <libsource lib="mylib" part="K155ID1" description="ニキシー管ドライバ, デコーダ"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="ニキシー管ドライバ, デコーダ"/>
+      <property name="ki_keywords" value="nixie"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a24ed26-468f-46b4-aa8b-8642ca292805</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>K155ID1</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm_Socket</footprint>
+      <datasheet>http://nixie-tube.com/nixie/data/74141/74141.pdf</datasheet>
+      <libsource lib="mylib" part="K155ID1" description="ニキシー管ドライバ, デコーダ"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="ニキシー管ドライバ, デコーダ"/>
+      <property name="ki_keywords" value="nixie"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35e4e55f-be75-4f33-a243-e2d8a0460842</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>K155ID1</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm_Socket</footprint>
+      <datasheet>http://nixie-tube.com/nixie/data/74141/74141.pdf</datasheet>
+      <libsource lib="mylib" part="K155ID1" description="ニキシー管ドライバ, デコーダ"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NixieIndicator.kicad_sch"/>
+      <property name="ki_description" value="ニキシー管ドライバ, デコーダ"/>
+      <property name="ki_keywords" value="nixie"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>613be047-17f2-471e-9f9f-5e081c9ca79c</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x03_Pin">
+      <description>Generic connector, single row, 01x03, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Pin">
+      <description>Generic connector, single row, 01x04, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x12_Pin">
+      <description>Generic connector, single row, 01x12, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x12_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Isolator" part="TLP627-4">
+      <description>DC Quad Darlington Optocoupler, Vce 300V, CTR 1000%, DIP16</description>
+      <docs>https://toshiba.semicon-storage.com/info/docget.jsp?did=16914&amp;prodName=TLP627</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TLP627-4</field>
+        <field name="Footprint">Package_DIP:DIP-16_W7.62mm</field>
+        <field name="Datasheet">https://toshiba.semicon-storage.com/info/docget.jsp?did=16914&amp;prodName=TLP627</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+        <pin num="9" name="" type="passive"/>
+        <pin num="10" name="" type="passive"/>
+        <pin num="11" name="" type="passive"/>
+        <pin num="12" name="" type="passive"/>
+        <pin num="13" name="" type="passive"/>
+        <pin num="14" name="" type="passive"/>
+        <pin num="15" name="" type="passive"/>
+        <pin num="16" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="MPSA42">
+      <description>0.5A Ic, 300V Vce, NPN High Voltage Transistor, TO-92</description>
+      <docs>http://www.onsemi.com/pub_link/Collateral/MPSA42-D.PDF</docs>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">MPSA42</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">http://www.onsemi.com/pub_link/Collateral/MPSA42-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mylib" part="K155ID1">
+      <description>ニキシー管ドライバ, デコーダ</description>
+      <docs>http://nixie-tube.com/nixie/data/74141/74141.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">K155ID1</field>
+        <field name="Footprint">Package_DIP:DIP-16_W7.62mm</field>
+        <field name="Datasheet">http://nixie-tube.com/nixie/data/74141/74141.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="8" type="open_collector"/>
+        <pin num="2" name="9" type="open_collector"/>
+        <pin num="3" name="A" type="input"/>
+        <pin num="4" name="D" type="input"/>
+        <pin num="5" name="VCC" type="power_in"/>
+        <pin num="6" name="B" type="input"/>
+        <pin num="7" name="C" type="input"/>
+        <pin num="8" name="2" type="open_collector"/>
+        <pin num="9" name="3" type="open_collector"/>
+        <pin num="10" name="7" type="open_collector"/>
+        <pin num="11" name="6" type="open_collector"/>
+        <pin num="12" name="GND" type="power_in"/>
+        <pin num="13" name="4" type="open_collector"/>
+        <pin num="14" name="5" type="open_collector"/>
+        <pin num="15" name="1" type="open_collector"/>
+        <pin num="16" name="0" type="open_collector"/>
+      </pins>
+    </libpart>
+    <libpart lib="mylib" part="PIC16F1939">
+      <description>PIC16F1939, 8-Bit CMOS Microcontrollers, PDIP</description>
+      <docs>http://ww1.microchip.com/downloads/jp/DeviceDoc/41574A_JP.pdf</docs>
+      <footprints>
+        <fp>TQFP*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PIC16F1939</field>
+        <field name="Footprint">Package_DIP:DIP-40_W15.24mm_Socket</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/jp/DeviceDoc/41574A_JP.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="RE3/MCLR/Vpp" type="bidirectional"/>
+        <pin num="2" name="RA0/AN0/C12IN0-/C2OUT/SRNQ/SS/VCAP/SEG12" type="bidirectional"/>
+        <pin num="3" name="RA1/AN1/C12IN1-/SEG7" type="bidirectional"/>
+        <pin num="4" name="RA2/AN2/C2IN+/Vref-/DACOUT/COM2" type="bidirectional"/>
+        <pin num="5" name="RA3/AN3/C1IN+/Vref+/SEG15" type="bidirectional"/>
+        <pin num="6" name="RA4/C1OUT/CPS6/T0CKI/SRQ/SEG4" type="bidirectional"/>
+        <pin num="7" name="RA5/AN4/C2OUT/CPS7/SRNQ/SS/VCAP/SEG5" type="bidirectional"/>
+        <pin num="8" name="SEG21/P3A/CCP3/AN5/RE0" type="bidirectional"/>
+        <pin num="9" name="SEG22/P3B/AN6/RE1" type="bidirectional"/>
+        <pin num="10" name="SEG23/CCP5/AN7/RE2" type="bidirectional"/>
+        <pin num="11" name="VDD" type="bidirectional"/>
+        <pin num="12" name="VSS" type="bidirectional"/>
+        <pin num="13" name="RA7/OSC1/CLKIN/SEG2" type="bidirectional"/>
+        <pin num="14" name="RA6/OSC2/CLKOUT/VCAP/SEG1" type="bidirectional"/>
+        <pin num="15" name="P2B/T1CKI/T1OSO/RC0" type="bidirectional"/>
+        <pin num="16" name="P2A/CCP2/T1OSI/RC1" type="bidirectional"/>
+        <pin num="17" name="SEG3/P1A/CCP1/RC2" type="bidirectional"/>
+        <pin num="18" name="SEG6/SCLK/SCL/RC3" type="bidirectional"/>
+        <pin num="19" name="COM3/CPS8/RD0" type="bidirectional"/>
+        <pin num="20" name="CCP4/CPS9/RD1" type="bidirectional"/>
+        <pin num="21" name="P2B/CPS10/RD2" type="bidirectional"/>
+        <pin num="22" name="SEG16/P2C/CPS11/RD3" type="bidirectional"/>
+        <pin num="23" name="SEG11/T1G/SDA/SDI/RC4" type="bidirectional"/>
+        <pin num="24" name="SEG10/SDO/RC5" type="bidirectional"/>
+        <pin num="25" name="SEG9/CK/TX/RC6" type="bidirectional"/>
+        <pin num="26" name="SEG8/DT/RX/RC7" type="bidirectional"/>
+        <pin num="27" name="SEG17/P2D/CPS12/RD4" type="bidirectional"/>
+        <pin num="28" name="SEG18/P1B/CPS13/RD5" type="bidirectional"/>
+        <pin num="29" name="SEG19/P1C/CPS14/RD6" type="bidirectional"/>
+        <pin num="30" name="SEG20/P1D/CPS15/RD7" type="bidirectional"/>
+        <pin num="31" name="VSS" type="power_in"/>
+        <pin num="32" name="VDD" type="power_in"/>
+        <pin num="33" name="RB0/AN12/CPS0/SRI/INT/SEG0" type="bidirectional"/>
+        <pin num="34" name="RB1/AN10/C12IN3-/CPS1/VLCD1" type="bidirectional"/>
+        <pin num="35" name="RB2/AN8/CPS2/VLCD2" type="bidirectional"/>
+        <pin num="36" name="RB3/AN9/C12IN2-/CPS3/CCP2/P2A/VLCD3" type="bidirectional"/>
+        <pin num="37" name="RB4/AN11/CPS4/COM0" type="bidirectional"/>
+        <pin num="38" name="RB5/AN13/CPS5/CCP3/P3A/T1G/COM1" type="bidirectional"/>
+        <pin num="39" name="RB6/ICSPCLK/ICDCLK/SEG14" type="bidirectional"/>
+        <pin num="40" name="RB7/ICSPDAT/ICDDAT/SEG13" type="bidirectional"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Isolator">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Isolator.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Transistor_BJT.kicad_sym</uri>
+    </library>
+    <library logical="mylib">
+      <uri>C:/Users/tomo9/Documents/KiCad/7.0/symbols/mylib.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/5V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="RE3/MCLR/Vpp" pintype="bidirectional"/>
+      <node ref="U1" pin="11" pinfunction="VDD" pintype="bidirectional"/>
+      <node ref="U1" pin="32" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U5" pin="5" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U6" pin="5" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U7" pin="5" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="2" name="/200V">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="/DEC0_0">
+      <node ref="J4" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="U7" pin="16" pinfunction="0" pintype="open_collector"/>
+    </net>
+    <net code="4" name="/DEC0_1">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U7" pin="15" pinfunction="1" pintype="open_collector"/>
+    </net>
+    <net code="5" name="/DEC0_2">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U7" pin="8" pinfunction="2" pintype="open_collector"/>
+    </net>
+    <net code="6" name="/DEC0_3">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U7" pin="9" pinfunction="3" pintype="open_collector"/>
+    </net>
+    <net code="7" name="/DEC0_4">
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U7" pin="13" pinfunction="4" pintype="open_collector"/>
+    </net>
+    <net code="8" name="/DEC0_5">
+      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U7" pin="14" pinfunction="5" pintype="open_collector"/>
+    </net>
+    <net code="9" name="/DEC0_6">
+      <node ref="J4" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U7" pin="11" pinfunction="6" pintype="open_collector"/>
+    </net>
+    <net code="10" name="/DEC0_7">
+      <node ref="J4" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U7" pin="10" pinfunction="7" pintype="open_collector"/>
+    </net>
+    <net code="11" name="/DEC0_8">
+      <node ref="J4" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U7" pin="1" pinfunction="8" pintype="open_collector"/>
+    </net>
+    <net code="12" name="/DEC0_9">
+      <node ref="J4" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U7" pin="2" pinfunction="9" pintype="open_collector"/>
+    </net>
+    <net code="13" name="/DEC0_A">
+      <node ref="U1" pin="17" pinfunction="SEG3/P1A/CCP1/RC2" pintype="bidirectional"/>
+      <node ref="U7" pin="3" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="14" name="/DEC0_B">
+      <node ref="U1" pin="16" pinfunction="P2A/CCP2/T1OSI/RC1" pintype="bidirectional"/>
+      <node ref="U7" pin="6" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="15" name="/DEC0_C">
+      <node ref="U1" pin="15" pinfunction="P2B/T1CKI/T1OSO/RC0" pintype="bidirectional"/>
+      <node ref="U7" pin="7" pinfunction="C" pintype="input"/>
+    </net>
+    <net code="16" name="/DEC0_D">
+      <node ref="U1" pin="14" pinfunction="RA6/OSC2/CLKOUT/VCAP/SEG1" pintype="bidirectional"/>
+      <node ref="U7" pin="4" pinfunction="D" pintype="input"/>
+    </net>
+    <net code="17" name="/DEC0_DOT">
+      <node ref="J4" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="R42" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="/DEC1_0">
+      <node ref="J3" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="U6" pin="16" pinfunction="0" pintype="open_collector"/>
+    </net>
+    <net code="19" name="/DEC1_1">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U6" pin="15" pinfunction="1" pintype="open_collector"/>
+    </net>
+    <net code="20" name="/DEC1_2">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U6" pin="8" pinfunction="2" pintype="open_collector"/>
+    </net>
+    <net code="21" name="/DEC1_3">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U6" pin="9" pinfunction="3" pintype="open_collector"/>
+    </net>
+    <net code="22" name="/DEC1_4">
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U6" pin="13" pinfunction="4" pintype="open_collector"/>
+    </net>
+    <net code="23" name="/DEC1_5">
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U6" pin="14" pinfunction="5" pintype="open_collector"/>
+    </net>
+    <net code="24" name="/DEC1_6">
+      <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U6" pin="11" pinfunction="6" pintype="open_collector"/>
+    </net>
+    <net code="25" name="/DEC1_7">
+      <node ref="J3" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U6" pin="10" pinfunction="7" pintype="open_collector"/>
+    </net>
+    <net code="26" name="/DEC1_8">
+      <node ref="J3" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U6" pin="1" pinfunction="8" pintype="open_collector"/>
+    </net>
+    <net code="27" name="/DEC1_9">
+      <node ref="J3" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="9" pintype="open_collector"/>
+    </net>
+    <net code="28" name="/DEC1_A">
+      <node ref="U1" pin="10" pinfunction="SEG23/CCP5/AN7/RE2" pintype="bidirectional"/>
+      <node ref="U6" pin="3" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="29" name="/DEC1_B">
+      <node ref="U1" pin="9" pinfunction="SEG22/P3B/AN6/RE1" pintype="bidirectional"/>
+      <node ref="U6" pin="6" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="30" name="/DEC1_C">
+      <node ref="U1" pin="8" pinfunction="SEG21/P3A/CCP3/AN5/RE0" pintype="bidirectional"/>
+      <node ref="U6" pin="7" pinfunction="C" pintype="input"/>
+    </net>
+    <net code="31" name="/DEC1_D">
+      <node ref="U1" pin="7" pinfunction="RA5/AN4/C2OUT/CPS7/SRNQ/SS/VCAP/SEG5" pintype="bidirectional"/>
+      <node ref="U6" pin="4" pinfunction="D" pintype="input"/>
+    </net>
+    <net code="32" name="/DEC1_DOT">
+      <node ref="J3" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="R40" pin="1" pintype="passive"/>
+    </net>
+    <net code="33" name="/DEC2_0">
+      <node ref="J2" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="U5" pin="16" pinfunction="0" pintype="open_collector"/>
+    </net>
+    <net code="34" name="/DEC2_1">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U5" pin="15" pinfunction="1" pintype="open_collector"/>
+    </net>
+    <net code="35" name="/DEC2_2">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U5" pin="8" pinfunction="2" pintype="open_collector"/>
+    </net>
+    <net code="36" name="/DEC2_3">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U5" pin="9" pinfunction="3" pintype="open_collector"/>
+    </net>
+    <net code="37" name="/DEC2_4">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U5" pin="13" pinfunction="4" pintype="open_collector"/>
+    </net>
+    <net code="38" name="/DEC2_5">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U5" pin="14" pinfunction="5" pintype="open_collector"/>
+    </net>
+    <net code="39" name="/DEC2_6">
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U5" pin="11" pinfunction="6" pintype="open_collector"/>
+    </net>
+    <net code="40" name="/DEC2_7">
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U5" pin="10" pinfunction="7" pintype="open_collector"/>
+    </net>
+    <net code="41" name="/DEC2_8">
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="8" pintype="open_collector"/>
+    </net>
+    <net code="42" name="/DEC2_9">
+      <node ref="J2" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="9" pintype="open_collector"/>
+    </net>
+    <net code="43" name="/DEC2_A">
+      <node ref="U1" pin="5" pinfunction="RA3/AN3/C1IN+/Vref+/SEG15" pintype="bidirectional"/>
+      <node ref="U5" pin="3" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="44" name="/DEC2_B">
+      <node ref="U1" pin="4" pinfunction="RA2/AN2/C2IN+/Vref-/DACOUT/COM2" pintype="bidirectional"/>
+      <node ref="U5" pin="6" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="45" name="/DEC2_C">
+      <node ref="U1" pin="3" pinfunction="RA1/AN1/C12IN1-/SEG7" pintype="bidirectional"/>
+      <node ref="U5" pin="7" pinfunction="C" pintype="input"/>
+    </net>
+    <net code="46" name="/DEC2_D">
+      <node ref="U1" pin="2" pinfunction="RA0/AN0/C12IN0-/C2OUT/SRNQ/SS/VCAP/SEG12" pintype="bidirectional"/>
+      <node ref="U5" pin="4" pinfunction="D" pintype="input"/>
+    </net>
+    <net code="47" name="/DEC2_DOT">
+      <node ref="J2" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="R38" pin="1" pintype="passive"/>
+    </net>
+    <net code="48" name="/DOT_0">
+      <node ref="R41" pin="2" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="COM3/CPS8/RD0" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="/DOT_1">
+      <node ref="R39" pin="2" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="RA7/OSC1/CLKIN/SEG2" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="/DOT_2">
+      <node ref="R37" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="RA4/C1OUT/CPS6/T0CKI/SRQ/SEG4" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="/NIXIE_DIG_0">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U4" pin="9" pintype="passive"/>
+    </net>
+    <net code="52" name="/NIXIE_DIG_1">
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U4" pin="11" pintype="passive"/>
+    </net>
+    <net code="53" name="/NIXIE_DIG_2">
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U4" pin="13" pintype="passive"/>
+    </net>
+    <net code="54" name="/NIXIE_DIG_3">
+      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U4" pin="15" pintype="passive"/>
+    </net>
+    <net code="55" name="/NIXIE_DIG_4">
+      <node ref="J5" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U3" pin="9" pintype="passive"/>
+    </net>
+    <net code="56" name="/NIXIE_DIG_5">
+      <node ref="J5" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U3" pin="11" pintype="passive"/>
+    </net>
+    <net code="57" name="/NIXIE_DIG_6">
+      <node ref="J5" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U3" pin="13" pintype="passive"/>
+    </net>
+    <net code="58" name="/NIXIE_DIG_7">
+      <node ref="J5" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U3" pin="15" pintype="passive"/>
+    </net>
+    <net code="59" name="/NIXIE_DIG_8">
+      <node ref="J5" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U2" pin="9" pintype="passive"/>
+    </net>
+    <net code="60" name="/NIXIE_DIG_9">
+      <node ref="J5" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="U2" pin="11" pintype="passive"/>
+    </net>
+    <net code="61" name="/NIXIE_DIG_10">
+      <node ref="J5" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="U2" pin="13" pintype="passive"/>
+    </net>
+    <net code="62" name="/NIXIE_DIG_11">
+      <node ref="J5" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="U2" pin="15" pintype="passive"/>
+    </net>
+    <net code="63" name="/PIC_DIG_0">
+      <node ref="U1" pin="27" pinfunction="SEG17/P2D/CPS12/RD4" pintype="bidirectional"/>
+      <node ref="U4" pin="7" pintype="passive"/>
+    </net>
+    <net code="64" name="/PIC_DIG_1">
+      <node ref="U1" pin="28" pinfunction="SEG18/P1B/CPS13/RD5" pintype="bidirectional"/>
+      <node ref="U4" pin="5" pintype="passive"/>
+    </net>
+    <net code="65" name="/PIC_DIG_2">
+      <node ref="U1" pin="29" pinfunction="SEG19/P1C/CPS14/RD6" pintype="bidirectional"/>
+      <node ref="U4" pin="3" pintype="passive"/>
+    </net>
+    <net code="66" name="/PIC_DIG_3">
+      <node ref="U1" pin="30" pinfunction="SEG20/P1D/CPS15/RD7" pintype="bidirectional"/>
+      <node ref="U4" pin="1" pintype="passive"/>
+    </net>
+    <net code="67" name="/PIC_DIG_4">
+      <node ref="U1" pin="33" pinfunction="RB0/AN12/CPS0/SRI/INT/SEG0" pintype="bidirectional"/>
+      <node ref="U3" pin="7" pintype="passive"/>
+    </net>
+    <net code="68" name="/PIC_DIG_5">
+      <node ref="U1" pin="34" pinfunction="RB1/AN10/C12IN3-/CPS1/VLCD1" pintype="bidirectional"/>
+      <node ref="U3" pin="5" pintype="passive"/>
+    </net>
+    <net code="69" name="/PIC_DIG_6">
+      <node ref="U1" pin="35" pinfunction="RB2/AN8/CPS2/VLCD2" pintype="bidirectional"/>
+      <node ref="U3" pin="3" pintype="passive"/>
+    </net>
+    <net code="70" name="/PIC_DIG_7">
+      <node ref="U1" pin="36" pinfunction="RB3/AN9/C12IN2-/CPS3/CCP2/P2A/VLCD3" pintype="bidirectional"/>
+      <node ref="U3" pin="1" pintype="passive"/>
+    </net>
+    <net code="71" name="/PIC_DIG_8">
+      <node ref="U1" pin="37" pinfunction="RB4/AN11/CPS4/COM0" pintype="bidirectional"/>
+      <node ref="U2" pin="7" pintype="passive"/>
+    </net>
+    <net code="72" name="/PIC_DIG_9">
+      <node ref="U1" pin="38" pinfunction="RB5/AN13/CPS5/CCP3/P3A/T1G/COM1" pintype="bidirectional"/>
+      <node ref="U2" pin="5" pintype="passive"/>
+    </net>
+    <net code="73" name="/PIC_DIG_10">
+      <node ref="U1" pin="39" pinfunction="RB6/ICSPCLK/ICDCLK/SEG14" pintype="bidirectional"/>
+      <node ref="U2" pin="3" pintype="passive"/>
+    </net>
+    <net code="74" name="/PIC_DIG_11">
+      <node ref="U1" pin="40" pinfunction="RB7/ICSPDAT/ICDDAT/SEG13" pintype="bidirectional"/>
+      <node ref="U2" pin="1" pintype="passive"/>
+    </net>
+    <net code="75" name="/RX">
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="SEG8/DT/RX/RC7" pintype="bidirectional"/>
+    </net>
+    <net code="76" name="/SCL">
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="SEG6/SCLK/SCL/RC3" pintype="bidirectional"/>
+    </net>
+    <net code="77" name="/SDA">
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="SEG11/T1G/SDA/SDI/RC4" pintype="bidirectional"/>
+    </net>
+    <net code="78" name="/TX">
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="SEG9/CK/TX/RC6" pintype="bidirectional"/>
+    </net>
+    <net code="79" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q2" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q3" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="VSS" pintype="bidirectional"/>
+      <node ref="U1" pin="31" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U5" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="12" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="80" name="Net-(J8-Pin_1)">
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="SEG10/SDO/RC5" pintype="bidirectional"/>
+    </net>
+    <net code="81" name="Net-(J8-Pin_2)">
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="CCP4/CPS9/RD1" pintype="bidirectional"/>
+    </net>
+    <net code="82" name="Net-(J8-Pin_3)">
+      <node ref="J8" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="P2B/CPS10/RD2" pintype="bidirectional"/>
+    </net>
+    <net code="83" name="Net-(J8-Pin_4)">
+      <node ref="J8" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="SEG16/P2C/CPS11/RD3" pintype="bidirectional"/>
+    </net>
+    <net code="84" name="Net-(Q1-B)">
+      <node ref="Q1" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R37" pin="1" pintype="passive"/>
+    </net>
+    <net code="85" name="Net-(Q1-C)">
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R38" pin="2" pintype="passive"/>
+    </net>
+    <net code="86" name="Net-(Q2-B)">
+      <node ref="Q2" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R39" pin="1" pintype="passive"/>
+    </net>
+    <net code="87" name="Net-(Q2-C)">
+      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R40" pin="2" pintype="passive"/>
+    </net>
+    <net code="88" name="Net-(Q3-B)">
+      <node ref="Q3" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R41" pin="1" pintype="passive"/>
+    </net>
+    <net code="89" name="Net-(Q3-C)">
+      <node ref="Q3" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R42" pin="2" pintype="passive"/>
+    </net>
+    <net code="90" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="91" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U2" pin="16" pintype="passive"/>
+    </net>
+    <net code="92" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pintype="passive"/>
+    </net>
+    <net code="93" name="Net-(R4-Pad2)">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="94" name="Net-(R5-Pad2)">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U2" pin="14" pintype="passive"/>
+    </net>
+    <net code="95" name="Net-(R6-Pad1)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U2" pin="4" pintype="passive"/>
+    </net>
+    <net code="96" name="Net-(R7-Pad2)">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="97" name="Net-(R8-Pad2)">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U2" pin="12" pintype="passive"/>
+    </net>
+    <net code="98" name="Net-(R9-Pad1)">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U2" pin="6" pintype="passive"/>
+    </net>
+    <net code="99" name="Net-(R10-Pad2)">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="100" name="Net-(R11-Pad2)">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U2" pin="10" pintype="passive"/>
+    </net>
+    <net code="101" name="Net-(R12-Pad1)">
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U2" pin="8" pintype="passive"/>
+    </net>
+    <net code="102" name="Net-(R13-Pad2)">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+    </net>
+    <net code="103" name="Net-(R14-Pad2)">
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U3" pin="16" pintype="passive"/>
+    </net>
+    <net code="104" name="Net-(R15-Pad1)">
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U3" pin="2" pintype="passive"/>
+    </net>
+    <net code="105" name="Net-(R16-Pad2)">
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="106" name="Net-(R17-Pad2)">
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U3" pin="14" pintype="passive"/>
+    </net>
+    <net code="107" name="Net-(R18-Pad1)">
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U3" pin="4" pintype="passive"/>
+    </net>
+    <net code="108" name="Net-(R19-Pad2)">
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+    </net>
+    <net code="109" name="Net-(R20-Pad2)">
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="U3" pin="12" pintype="passive"/>
+    </net>
+    <net code="110" name="Net-(R21-Pad1)">
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="U3" pin="6" pintype="passive"/>
+    </net>
+    <net code="111" name="Net-(R22-Pad2)">
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+    </net>
+    <net code="112" name="Net-(R23-Pad2)">
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="U3" pin="10" pintype="passive"/>
+    </net>
+    <net code="113" name="Net-(R24-Pad1)">
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="U3" pin="8" pintype="passive"/>
+    </net>
+    <net code="114" name="Net-(R25-Pad2)">
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+    </net>
+    <net code="115" name="Net-(R26-Pad2)">
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="U4" pin="16" pintype="passive"/>
+    </net>
+    <net code="116" name="Net-(R27-Pad1)">
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="U4" pin="2" pintype="passive"/>
+    </net>
+    <net code="117" name="Net-(R28-Pad2)">
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+    </net>
+    <net code="118" name="Net-(R29-Pad2)">
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="U4" pin="14" pintype="passive"/>
+    </net>
+    <net code="119" name="Net-(R30-Pad1)">
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="U4" pin="4" pintype="passive"/>
+    </net>
+    <net code="120" name="Net-(R31-Pad2)">
+      <node ref="R31" pin="2" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+    </net>
+    <net code="121" name="Net-(R32-Pad2)">
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="U4" pin="12" pintype="passive"/>
+    </net>
+    <net code="122" name="Net-(R33-Pad1)">
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="U4" pin="6" pintype="passive"/>
+    </net>
+    <net code="123" name="Net-(R34-Pad2)">
+      <node ref="R34" pin="2" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+    </net>
+    <net code="124" name="Net-(R35-Pad2)">
+      <node ref="R35" pin="2" pintype="passive"/>
+      <node ref="U4" pin="10" pintype="passive"/>
+    </net>
+    <net code="125" name="Net-(R36-Pad1)">
+      <node ref="R36" pin="1" pintype="passive"/>
+      <node ref="U4" pin="8" pintype="passive"/>
+    </net>
+    <net code="126" name="unconnected-(J2-Pin_12-Pad12)">
+      <node ref="J2" pin="12" pinfunction="Pin_12" pintype="passive+no_connect"/>
+    </net>
+    <net code="127" name="unconnected-(J3-Pin_12-Pad12)">
+      <node ref="J3" pin="12" pinfunction="Pin_12" pintype="passive+no_connect"/>
+    </net>
+    <net code="128" name="unconnected-(J4-Pin_12-Pad12)">
+      <node ref="J4" pin="12" pinfunction="Pin_12" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
